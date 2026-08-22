@@ -39,5 +39,5 @@ AI Assistant Response
 
 
 <p align="center">
-  <img src="images/chatbot.png" alt="Kreative Kudi AI Assistant" width="800">
+  <img src="https://github.com/Navjotkhatri/Specialized-LLM-Bot-Using-Pre-Trained-Models/blob/main/Screenshot%202026-08-22%20202336.png?raw=true" alt="Kreative Kudi AI Assistant" width="800">
 </p>
